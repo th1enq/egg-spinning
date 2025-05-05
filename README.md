@@ -2,6 +2,10 @@
 
 A C program that renders a spinning 3D egg using ASCII characters in the terminal.
 
+## Docs
+
+[Egg-Spinning](https://th1enq.github.io/posts/post-07/)
+
 ## Description
 
 This program creates an animated 3D visualization of a spinning egg shape using ASCII art. It renders the egg with different characters to represent varying levels of luminance, creating a 3D effect in a standard terminal.
